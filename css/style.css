@@ -1,0 +1,65 @@
+main {
+    min-width: 372px;
+}
+
+
+/*----navbar 1----*/
+
+
+/*input de busca*/
+
+#pesquisa {
+    margin-left: 450px;
+    padding: 20px;
+}
+
+#espaco {
+    height: 50px;
+}
+
+
+/*cadastro|login|carrinho*/
+
+.align-text-navbar {
+    margin-left: 100px;
+}
+
+.nav-link:hover {
+    border-bottom: 3px solid rgb(0, 225, 255);
+}
+
+.bi-cart-dash {
+    font-size: 20px;
+}
+
+
+/*----navbar 1 end----*/
+
+
+/*----navbar 2----*/
+
+#dropdownMenu2 {
+    font-size: 25px
+}
+
+
+/*----navbar 2 end----*/
+
+
+/*----produtos----*/
+
+.card-img-top:hover {
+    opacity: 70%;
+}
+
+
+/*----produtos end----*/
+
+.hover-parallax {
+    background: #272727;
+    text-align: center;
+    padding: 123px 15px 130px;
+    position: relative;
+    color: #888;
+    font-size: 16px;
+}
